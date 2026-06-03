@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Wed Jun 03 13:42:05 UTC 2026","Wed Jun 03 13:42:25 UTC 2026","20061","tests","test_cookie_consent","","","","test_accept_analytical_cookies[chromium]",""
